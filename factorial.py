@@ -15,4 +15,5 @@ else:
          fact = fact*i
          i=i+1
      print("Factorial of n:", fact)
+     print( " Finished" ) 
      
